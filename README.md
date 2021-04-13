@@ -45,7 +45,7 @@ Menambahkan style agar Form terlihat lebih menarik.
 # Pertanyaan dan Tugas
 
 # Membuat sebuah dropdown menu dan listbox multiple
-![image](https://user-images.githubusercontent.com/56240954/114543339-43f96a00-9c83-11eb-9837-bfcbf1bfac04.png)
+![image](https://user-images.githubusercontent.com/56240954/114624942-b302ad00-9cdb-11eb-95b6-3687ea9760d1.png)
 
 # Syntax Dropdown dan Listbox
 ![image](https://user-images.githubusercontent.com/56240954/114543682-b79b7700-9c83-11eb-818f-56fa1c75232a.png)
