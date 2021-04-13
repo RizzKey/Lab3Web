@@ -42,3 +42,11 @@ Membuat file baru untuk belajar membuat form. Form dapat dibuat dengan menggunak
 Menambahkan style agar Form terlihat lebih menarik. 
 ![image](https://user-images.githubusercontent.com/56240954/114521068-443a3b00-9c6c-11eb-9cc2-0d4fc3fbe898.png)
 
+# Pertanyaan dan Tugas
+
+# Membuat sebuah dropdown menu dan listbox multiple
+![image](https://user-images.githubusercontent.com/56240954/114543339-43f96a00-9c83-11eb-9837-bfcbf1bfac04.png)
+
+# Syntax Dropdown dan Listbox
+![image](https://user-images.githubusercontent.com/56240954/114543682-b79b7700-9c83-11eb-818f-56fa1c75232a.png)
+
