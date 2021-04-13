@@ -9,7 +9,7 @@
 
 # Langkah1
 
-Membuat sebuah dokumen html dan membuat sebuah Ordered List sebagai berikut:
+Membuat sebuah dokumenn html dan membuat sebuah Ordered List sebagai berikut:
 ![image](https://user-images.githubusercontent.com/56240954/114519781-ee18c800-9c6a-11eb-9bc4-61e7584d11d6.png)
 
 # Langkah2
